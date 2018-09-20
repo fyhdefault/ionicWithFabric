@@ -1,0 +1,7 @@
+{
+  "name": "ionicWithFabric",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
